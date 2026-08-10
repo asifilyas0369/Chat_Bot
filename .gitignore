@@ -1,0 +1,24 @@
+# Environment
+.env
+.venv/
+__pycache__/
+*.pyc
+
+# Python
+.pytest_cache/
+
+# Data / PDFs
+data/raw/
+data/processed/
+data/chunks/
+*.pdf
+
+# Vector databases
+chroma_db/
+vectorstore/
+embeddings/
+
+# IDE
+.vscode/
+.idea/
+
