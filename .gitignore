@@ -22,3 +22,10 @@ embeddings/
 .vscode/
 .idea/
 
+Data/chroma/
+
+# ChromaDB
+Data/chroma/
+data/chroma/
+
+
