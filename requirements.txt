@@ -6,3 +6,4 @@ sentence-transformers
 langchain-huggingface
 chromadb 
 langchain-chroma
+rank-bm25
